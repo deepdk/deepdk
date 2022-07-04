@@ -10,7 +10,7 @@ I am Deepali Kank. I am a data science and machine learning ethusiast. I have co
 
 - My Blog: https://deepdk.github.io/
 
-- Twitter: @deepalikank
+- Twitter: [@deepalikank](https://twitter.com/DeepaliKank)
 
 - Email: deepalikank1@gmail.com
 
