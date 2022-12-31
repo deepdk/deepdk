@@ -8,7 +8,7 @@ I am Deepali Kank. I am a data science and machine learning ethusiast. I have co
 
 #### How to reach me
 
-- My Blog: [https://deepdk.github.io/](https://deepali-kank.super.site/)
+- My Blog: https://deepali-kank.super.site/
 
 - Twitter: [@deepalikank](https://twitter.com/DeepaliKank)
 
