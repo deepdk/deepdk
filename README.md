@@ -6,10 +6,12 @@ As a Data Analyst with a Master's in Statistics, I specialize in transforming co
 
 ### 🚀 Quick Highlights
 
-- 📊 Expertise in R, Python, Power BI, Tableau, and Figma
+- 📊 Expertise in R, Python, Power BI, Tableau, D3js and Figma
 - 🎨 Passionate about data visualization and storytelling
-- 🔧 Skilled in process automation and interactive dashboard creation
+- 🔧 Skilled in data analysis, process automation and interactive dashboard creation
 - 🎓 Lifelong learner, always exploring new fields
+
+If you'd like to hire me or collaborate on a project, please reach out via [email](mailto:deepalikank1@gmail.com). And if you appreciate my work and want to support me, a cup of coffee is always welcome!
 
 ### 🌐 Connect with Me
 
@@ -32,6 +34,11 @@ As a Data Analyst with a Master's in Statistics, I specialize in transforming co
     <td><img src="https://github.com/deepdk/deepdk/blob/master/images/taylor%20figma.png" alt="Data Viz 4"></td>
     <td><img src="https://github.com/deepdk/deepdk/blob/master/images/union%20figma.png" alt="Data Viz 5"></td>
     <td><img src="https://github.com/deepdk/deepdk/blob/master/images/f1.png" alt="Data Viz 6"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/deepdk/deepdk/blob/master/images/songs.png" alt="Data Viz 7"</td>
+    <td><img src="https://github.com/deepdk/deepdk/blob/master/images/gif52.gif" alt="Data Viz 7"</td>
+    <td><img src="https://github.com/deepdk/deepdk/blob/master/images/crop.png" alt="Data Viz 7"</td>
   </tr>
 </table>
 
