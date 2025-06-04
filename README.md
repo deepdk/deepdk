@@ -2,7 +2,7 @@
 
 ## Data Analyst | Visualization Specialist | Storyteller
 
-As a Data Analyst with a Master's in Statistics, I specialize in transforming complex datasets into clear, impactful insights. Currently working at Revisual Labs, India's first Information Design Agency.
+As a Data Analyst with a Master's in Statistics, I specialize in transforming complex datasets into clear, impactful insights. 
 
 ### 🚀 Quick Highlights
 
